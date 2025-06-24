@@ -1,11 +1,3 @@
-# from fastapi import FastAPI
-# # from langchain_core.prompts import ChatPromptTemplate
-# from langchain.prompts import ChatPromptTemplate
-# from langchain_core.output_parsers import StrOutputParser
-# from langchain_groq import ChatGroq
-# import os
-# from langserve import add_routes
-# from dotenv import load_dotenv
 from fastapi import FastAPI
 from langchain.prompts import ChatPromptTemplate
 # from langchain.output_parsers import StrOutputParser
